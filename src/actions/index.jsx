@@ -141,6 +141,7 @@ export const txtValue = event => {
   return { type: HANDLE_CHANGE, [name]: value };
 };
 
+//extra feature
 export const cardDisplay = () => ({ type: HANDLE_CARD_DISPLAY, show: true });
 
 export const BtnDisplay = () => ({ type: HANDLE_BTN_DISPLAY, show: false });
