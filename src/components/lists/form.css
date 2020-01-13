@@ -1,0 +1,25 @@
+.col {
+  padding-left: 0;
+  padding-right: 6px;
+}
+.add {
+  margin: 0;
+}
+.close {
+  background-color: white;
+  margin-left: 0.5em;
+  align-self: center;
+  cursor: pointer;
+}
+.addlist {
+  display: flex;
+  margin-bottom: 1em;
+}
+.add-list {
+  display: none;
+  margin: 0 auto 5px auto;
+  width: 300px;
+}
+.add-btn {
+  margin: 6px 0 1.2em 1.5em;
+}

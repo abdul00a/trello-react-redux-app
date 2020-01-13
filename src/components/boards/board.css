@@ -1,0 +1,9 @@
+.card {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.boardElement {
+  margin-right: 2em;
+  margin-bottom: 2em;
+}

@@ -1,0 +1,8 @@
+.items {
+  margin: 15px 0;
+  display: flex;
+  justify-content: space-between;
+}
+.items:hover {
+  background: #eaebf0;
+}
